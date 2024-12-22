@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.playwrite-us-modern-guides-regular {
+    font-family: "Playwrite US Modern Guides", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+  
+body {
+    /*
+    font-family: "Playwrite US Modern Guides", serif;
+    */
+    font-size: 18px;
+}
